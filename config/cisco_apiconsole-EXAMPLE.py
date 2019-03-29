@@ -1,0 +1,2 @@
+CLIENT_ID= "id"
+CLIENT_PASS= "pass"
